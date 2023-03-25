@@ -1,0 +1,16 @@
+﻿  MyWndDlg.cpp
+C:\Users\89598\source\repos\windows核心编程2\MyWnd\MyWndDlg.cpp(251,62): warning C4311: “类型强制转换”: 从“POSITION”到“int”的指针截断
+C:\Users\89598\source\repos\windows核心编程2\MyWnd\MyWndDlg.cpp(251,62): warning C4302: “类型强制转换”: 从“POSITION”到“int”截断
+C:\Users\89598\source\repos\windows核心编程2\MyWnd\MyWndDlg.cpp(264,62): warning C4311: “类型强制转换”: 从“POSITION”到“int”的指针截断
+C:\Users\89598\source\repos\windows核心编程2\MyWnd\MyWndDlg.cpp(264,62): warning C4302: “类型强制转换”: 从“POSITION”到“int”截断
+C:\Users\89598\source\repos\windows核心编程2\MyWnd\MyWndDlg.cpp(267,29): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“HWND”
+C:\Users\89598\source\repos\windows核心编程2\MyWnd\MyWndDlg.cpp(273,62): warning C4311: “类型强制转换”: 从“POSITION”到“int”的指针截断
+C:\Users\89598\source\repos\windows核心编程2\MyWnd\MyWndDlg.cpp(273,62): warning C4302: “类型强制转换”: 从“POSITION”到“int”截断
+C:\Users\89598\source\repos\windows核心编程2\MyWnd\MyWndDlg.cpp(276,29): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“HWND”
+C:\Users\89598\source\repos\windows核心编程2\MyWnd\MyWndDlg.cpp(282,62): warning C4311: “类型强制转换”: 从“POSITION”到“int”的指针截断
+C:\Users\89598\source\repos\windows核心编程2\MyWnd\MyWndDlg.cpp(282,62): warning C4302: “类型强制转换”: 从“POSITION”到“int”截断
+C:\Users\89598\source\repos\windows核心编程2\MyWnd\MyWndDlg.cpp(285,29): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“HWND”
+C:\Users\89598\source\repos\windows核心编程2\MyWnd\MyWndDlg.cpp(291,62): warning C4311: “类型强制转换”: 从“POSITION”到“int”的指针截断
+C:\Users\89598\source\repos\windows核心编程2\MyWnd\MyWndDlg.cpp(291,62): warning C4302: “类型强制转换”: 从“POSITION”到“int”截断
+C:\Users\89598\source\repos\windows核心编程2\MyWnd\MyWndDlg.cpp(294,29): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“HWND”
+  MyWnd.vcxproj -> C:\Users\89598\source\repos\windows核心编程2\x64\Debug\MyWnd.exe

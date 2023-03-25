@@ -1,0 +1,27 @@
+﻿  WindowsAxy.cpp
+C:\Users\89598\Documents\Tencent Files\1013120917\FileRecv\ShellCode生成器\GUI_ShellCodeCreator\WindowsAxy.cpp(350,21): warning C4244: “=”: 从“DWORD”转换到“WORD”，可能丢失数据
+C:\Users\89598\Documents\Tencent Files\1013120917\FileRecv\ShellCode生成器\GUI_ShellCodeCreator\WindowsAxy.cpp(439,34): warning C4311: “类型强制转换”: 从“BYTE *”到“DWORD”的指针截断
+C:\Users\89598\Documents\Tencent Files\1013120917\FileRecv\ShellCode生成器\GUI_ShellCodeCreator\WindowsAxy.cpp(439,34): warning C4302: “类型强制转换”: 从“BYTE *”到“DWORD”截断
+C:\Users\89598\Documents\Tencent Files\1013120917\FileRecv\ShellCode生成器\GUI_ShellCodeCreator\WindowsAxy.cpp(500,2): error C4235: 使用了非标准扩展: 不支持在此结构上使用“__asm”关键字
+C:\Users\89598\Documents\Tencent Files\1013120917\FileRecv\ShellCode生成器\GUI_ShellCodeCreator\WindowsAxy.cpp(501,3): error C2065: “mov”: 未声明的标识符
+C:\Users\89598\Documents\Tencent Files\1013120917\FileRecv\ShellCode生成器\GUI_ShellCodeCreator\WindowsAxy.cpp(501,7): error C2146: 语法错误: 缺少“;”(在标识符“eax”的前面)
+C:\Users\89598\Documents\Tencent Files\1013120917\FileRecv\ShellCode生成器\GUI_ShellCodeCreator\WindowsAxy.cpp(501,7): error C2065: “eax”: 未声明的标识符
+C:\Users\89598\Documents\Tencent Files\1013120917\FileRecv\ShellCode生成器\GUI_ShellCodeCreator\WindowsAxy.cpp(501,12): error C2065: “fs”: 未声明的标识符
+C:\Users\89598\Documents\Tencent Files\1013120917\FileRecv\ShellCode生成器\GUI_ShellCodeCreator\WindowsAxy.cpp(501,14): error C2143: 语法错误: 缺少“;”(在“:”的前面)
+C:\Users\89598\Documents\Tencent Files\1013120917\FileRecv\ShellCode生成器\GUI_ShellCodeCreator\WindowsAxy.cpp(501,14): error C2059: 语法错误:“:”
+  MyInjectShellCode.cpp
+C:\Users\89598\source\repos\windows核心编程2\进程与线程作业一\MyInjectShellCode.cpp(107,85): error C2664: “BOOL WriteProcessMemory(HANDLE,LPVOID,LPCVOID,SIZE_T,SIZE_T *)”: 无法将参数 5 从“DWORD *”转换为“SIZE_T *”
+C:\Users\89598\source\repos\windows核心编程2\进程与线程作业一\MyInjectShellCode.cpp(107,73): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\memoryapi.h(172,1): message : 参见“WriteProcessMemory”的声明
+  进程与线程作业一Dlg.cpp
+C:\Users\89598\source\repos\windows核心编程2\进程与线程作业一\进程与线程作业一Dlg.cpp(236,62): warning C4311: “类型强制转换”: 从“POSITION”到“int”的指针截断
+C:\Users\89598\source\repos\windows核心编程2\进程与线程作业一\进程与线程作业一Dlg.cpp(236,62): warning C4302: “类型强制转换”: 从“POSITION”到“int”截断
+C:\Users\89598\source\repos\windows核心编程2\进程与线程作业一\进程与线程作业一Dlg.cpp(257,62): warning C4311: “类型强制转换”: 从“POSITION”到“int”的指针截断
+C:\Users\89598\source\repos\windows核心编程2\进程与线程作业一\进程与线程作业一Dlg.cpp(257,62): warning C4302: “类型强制转换”: 从“POSITION”到“int”截断
+C:\Users\89598\source\repos\windows核心编程2\进程与线程作业一\进程与线程作业一Dlg.cpp(272,63): warning C4311: “类型强制转换”: 从“POSITION”到“int”的指针截断
+C:\Users\89598\source\repos\windows核心编程2\进程与线程作业一\进程与线程作业一Dlg.cpp(272,63): warning C4302: “类型强制转换”: 从“POSITION”到“int”截断
+C:\Users\89598\source\repos\windows核心编程2\进程与线程作业一\进程与线程作业一Dlg.cpp(324,63): warning C4311: “类型强制转换”: 从“POSITION”到“int”的指针截断
+C:\Users\89598\source\repos\windows核心编程2\进程与线程作业一\进程与线程作业一Dlg.cpp(324,63): warning C4302: “类型强制转换”: 从“POSITION”到“int”截断
+C:\Users\89598\source\repos\windows核心编程2\进程与线程作业一\进程与线程作业一Dlg.cpp(339,63): warning C4311: “类型强制转换”: 从“POSITION”到“int”的指针截断
+C:\Users\89598\source\repos\windows核心编程2\进程与线程作业一\进程与线程作业一Dlg.cpp(339,63): warning C4302: “类型强制转换”: 从“POSITION”到“int”截断
+  正在生成代码...
